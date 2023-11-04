@@ -1,8 +1,8 @@
 # python-projects
 
-## Setup
+## Setup (Windows)
 ```
-python venv build\env
+python -m venv build\env
 build\env\Scripts\activate
 pip install -r requirements.txt
 ```
